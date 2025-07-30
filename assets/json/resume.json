@@ -10,9 +10,9 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "اصفهان",
+      "city": "تهران",
       "countryCode": "IR",
-      "region": "اصفهان"
+      "region": "تهران"
     },
     "profiles": [
       {
@@ -22,8 +22,8 @@
       },
       {
         "network": "LinkedIn",
-        "username": "your-linkedin-id",
-        "url": "https://linkedin.com/in/your-linkedin-id"
+        "username": "MatinMoqadas",
+        "url": "https://www.linkedin.com/in/matin-moqadas/"
       }
     ]
   },
@@ -34,7 +34,7 @@
       "url": "https://ui.ac.ir/",
       "area": "علوم کامپیوتر",
       "studyType": "کارشناسی ارشد",
-      "startDate": "2023-01-01",
+      "startDate": "2024-01-01",
       "endDate": "",
       "score": "",
       "courses": ["یادگیری ماشین", "شبکه‌های عصبی", "پردازش زبان طبیعی"]
@@ -54,7 +54,7 @@
   "skills": [
     {
       "name": "Programming",
-      "level": "",
+      "level": "High Intermediate",
       "icon": "",
       "keywords": [
         "Python",
