@@ -1,47 +1,111 @@
 {
   "basics": {
     "name": "Matin Moqadas",
-    "label": "دانشجوی ارشد علوم کامپیوتر",
+    "label": "Master’s Student in Artificial Intelligence",
     "image": "",
     "email": "mtnmghds3@gmail.com",
     "phone": "",
     "url": "https://github.com/matinmoqadas",
-    "summary": "دانشجوی ارشد علوم کامپیوتر دانشگاه اصفهان. علاقه‌مند به یادگیری ماشین، شبکه‌های عصبی و پردازش زبان طبیعی (NLP). عاشق پژوهش و یادگیری مباحث جدید در هوش مصنوعی، مخصوصاً یادگیری عمیق و زبان طبیعی.",
+    "summary": "I am a Master’s student in Artificial Intelligence specializing in NLP and LLM research with hands-on experience in AI engineering and patent analysis. Proficient in Python, Hugging Face Transformers, LangChain, with a growing interest in Retrieval‑Augmented Generation (RAG). Actively seeking collaborative research and assistantship roles bridging academia and industry.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "تهران",
+      "city": "Tehran",
       "countryCode": "IR",
-      "region": "تهران"
+      "region": "Tehran"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "matinmoqadas",
+        "username": "Matin Moqadas",
         "url": "https://github.com/matinmoqadas"
       },
       {
         "network": "LinkedIn",
-        "username": "MatinMoqadas",
-        "url": "https://www.linkedin.com/in/matin-moqadas/"
+        "username": "Matin Moqadas",
+        "url": "https://linkedin.com/in/matin-moqadas"
       }
     ]
   },
-  "education": [
+  "work": [
     {
-      "institution": "دانشگاه اصفهان",
-      "location": "اصفهان، ایران",
-      "url": "https://ui.ac.ir/",
-      "area": "علوم کامپیوتر",
-      "studyType": "کارشناسی ارشد",
-      "startDate": "2024-01-01",
-      "endDate": "",
-      "score": "",
-      "courses": ["یادگیری ماشین", "شبکه‌های عصبی", "پردازش زبان طبیعی"]
+      "name": "Entekhab Group",
+      "position": "Patent Analyst & Junior AI Engineer",
+      "url": "",
+      "startDate": "2024-06-01",
+      "endDate": "2025-05-01",
+      "summary": "Conducting AI‑related research and analysis as part of patent review process, while contributing to NLP and LLM based solution development.",
+      "highlights": []
     }
   ],
-  "awards": [],
+  "education": [
+    {
+      "institution": "University of Isfahan",
+      "location": "Tehran, Iran",
+      "url": "https://ui.ac.ir/",
+      "area": "Artificial Intelligence",
+      "studyType": "Master of Science",
+      "startDate": "2024-07-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Machine Learning", "Data Analysis"]
+    },
+    {
+      "institution": "University of Isfahan",
+      "location": "Isfahan, Iran",
+      "url": "https://ui.ac.ir/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-09-01",
+      "endDate": "2023-06-30",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "University of Isfahan",
+      "position": "Teaching Assistant (Algorithms & Data Science)",
+      "location": "Isfahan, Iran",
+      "url": "https://ui.ac.ir/",
+      "startDate": "2024-08-01",
+      "endDate": "2024-12-01",
+      "summary": "Assisted in delivering lectures, clarifying complex algorithmic concepts and guiding students through problem‑solving techniques. Collaborated with professors to enhance course materials and student engagement.",
+      "highlights": []
+    },
+    {
+      "organization": "Isfahan Mathematic House",
+      "position": "Mathematics Teacher & Event Organizer",
+      "location": "Isfahan, Iran",
+      "url": "",
+      "startDate": "2019-06-01",
+      "endDate": "2024-06-01",
+      "summary": "Freelance high‑school mathematics teacher. Created engaging lessons in geometry, algebra, and introductory calculus. Organized group problem‑solving sessions and fostered a positive, collaborative learning environment.",
+      "highlights": ["Created interactive teaching methods and group math games", "Improved student understanding through simplified explanations"]
+    },
+    {
+      "organization": "Isfahan Mathematic House",
+      "position": "Machine Learning Intern & Event Organizer",
+      "location": "Isfahan, Iran",
+      "url": "",
+      "startDate": "2021-11-01",
+      "endDate": "2022-02-01",
+      "summary": "Participated in a Machine Learning study group based on 'Hands‑On Machine Learning' book, covering fundamentals through six chapters. Organized a community event to encourage peers in data science and machine learning.",
+      "highlights": ["Organized community ML workshops and discussions", "Encouraged peer learning and networking"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "LLM‑based NLP Applications",
+      "summary": "Developing chatbots and text summarization systems using Hugging Face Transformers and LangChain, with RAG pipelines in production‑like settings.",
+      "highlights": ["RAG pipeline design", "Text summarization integration"],
+      "startDate": "2023-09-01",
+      "endDate": "",
+      "url": ""
+    }
+  ],
   "certificates": [],
+  "awards": [],
   "publications": [
     {
       "name": "example",
@@ -53,24 +117,16 @@
   ],
   "skills": [
     {
-      "name": "Programming",
-      "level": "High Intermediate",
-      "icon": "",
-      "keywords": [
-        "Python",
-        "PyTorch",
-        "LaTeX"
-      ]
-    },
-    {
-      "name": "Machine Learning",
+      "name": "Machine Learning & NLP",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Deep Learning",
-        "NLP",
-        "Graph Neural Networks"
-      ]
+      "keywords": ["Machine Learning", "Natural Language Processing", "RAG", "LangChain", "Hugging Face"]
+    },
+    {
+      "name": "Programming & Tools",
+      "level": "",
+      "icon": "",
+      "keywords": ["Python", "PyTorch", "Data Analysis", "LaTeX"]
     }
   ],
   "languages": [
@@ -87,17 +143,9 @@
   ],
   "interests": [
     {
-      "name": "هوش مصنوعی",
+      "name": "Artificial Intelligence & NLP",
       "icon": "",
-      "keywords": [
-        "یادگیری ماشین",
-        "یادگیری عمیق",
-        "NLP"
-      ]
+      "keywords": ["NLP", "Large Language Models", "Machine Learning"]
     }
   ],
-  "references": [],
-  "projects": [],
-  "work": [],
-  "volunteer": []
 }
