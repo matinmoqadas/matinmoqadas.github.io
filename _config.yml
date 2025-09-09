@@ -29,7 +29,7 @@ author:
   location         : "Tehran"
   employer         : "University of Isfahan"
   uri              : # URL
-  email            : "" 
+  email            : 
 
   # Academic websites
   academia         : # URL
@@ -40,7 +40,7 @@ author:
   orcid            : "https://orcid.org/0009-0006-7410-148X"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : ""
+  researchgate     : "https://www.researchgate.net/profile/Matin-Moqadas"
   scopus           : # URL
 
   # Repositories and software development
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
