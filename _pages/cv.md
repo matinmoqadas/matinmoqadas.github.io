@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+# Matin — Curriculum Vitae
 
 📍 **MSc Artificial Intelligence Student**  
 🎓 University of Isfahan  
