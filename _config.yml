@@ -37,10 +37,10 @@ author:
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0006-7410-148X"
+  orcid            : #"https://orcid.org/0009-0006-7410-148X"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Matin-Moqadas"
+  researchgate     : #"https://www.researchgate.net/profile/Matin-Moqadas"
   scopus           : # URL
 
   # Repositories and software development
@@ -64,7 +64,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : "https://medium.com/@matin_moqadas"
+  medium           : #"https://medium.com/@matin_moqadas"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
