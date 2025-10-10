@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# M — Curriculum Vitae
 
 📍 **MSc Artificial Intelligence Student**  
 🎓 University of Isfahan  
