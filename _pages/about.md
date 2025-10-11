@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Matin Moqadas — Curriculum Vitae
 
 📍 **MSc Artificial Intelligence Student**  
 🎓 *University of Isfahan*  
