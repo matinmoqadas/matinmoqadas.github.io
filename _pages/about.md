@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Matin Moqadas — Curriculum Vitae"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 # Matin Moqadas — Curriculum Vitae
 
 📍 **MSc Artificial Intelligence Student**  
