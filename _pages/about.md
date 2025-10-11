@@ -9,7 +9,7 @@ redirect_from:
 
 📍 **MSc Artificial Intelligence Student**  
 🎓 *University of Isfahan*  
-🌐 [GitHub Profile](https://github.com/yourusername)
+🌐 [GitHub Profile](https://github.com/matinmoqadas)
 
 ---
 
