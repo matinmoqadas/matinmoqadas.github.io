@@ -1,0 +1,10 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% for item in site.portfolio reversed %}
+  {% include archive-single.html item=item %}
+{% endfor %}
