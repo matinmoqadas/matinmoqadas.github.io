@@ -4,7 +4,74 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+---
+layout: project      # or “page”, “single”, or the layout your theme expects
+title: “RAG Best Practices”
+permalink: /projects/rag-best-practices/
+---
 
-{% for item in site.portfolio reversed %}
-  {% include archive-single.html item=item %}
-{% endfor %}
+<div class="project-page">
+
+  <h1>{{ page.title }}</h1>
+
+  <!-- You can add a project image if you have one -->
+  {% if page.image %}
+  <div class="project-image">
+    <img src="{{ page.image }}" alt="{{ page.title }} screenshot">
+  </div>
+  {% endif %}
+
+  <section class="project-overview">
+    <h2>Overview</h2>
+    <p>
+      <!-- You can either inline the description here or use a variable in front matter -->
+      This project “RAG Best Practices” aims to collect and demonstrate recommended practices for Retrieval-Augmented Generation systems. It’s intended as a reference or template for building RAG pipelines.
+    </p>
+  </section>
+
+  <section class="project-setup">
+    <h2>Setup</h2>
+    <ol>
+      <li>Clone the repository:
+        <pre><code>git clone https://github.com/GeneWhisperer/RAG_Best_Practices.git
+cd RAG_Best_Practices</code></pre>
+      </li>
+      <li>Install dependencies:
+        <pre><code>pip install -r requirements.txt</code></pre>
+      </li>
+      <li>(Optional) Add environment variables or configuration instructions here.</li>
+    </ol>
+  </section>
+
+  <section class="project-usage">
+    <h2>Usage</h2>
+    <pre><code>python app.py</code></pre>
+    <p>
+      You may specify additional command-line arguments or configurations as needed (e.g. `--config config.yaml`, or environment variables etc.).
+    </p>
+  </section>
+
+  <section class="project-contributing">
+    <h2>Contributing</h2>
+    <ol>
+      <li>Fork the repo and create a feature branch.</li>
+      <li>Submit a Pull Request describing your changes.</li>
+    </ol>
+  </section>
+
+  <section class="project-license">
+    <h2>License</h2>
+    <p>
+      This project is released under the license you choose (e.g. MIT, Apache 2.0, etc.). Be sure to include a `LICENSE` file.
+    </p>
+  </section>
+
+  <section class="project-links">
+    <h2>Links</h2>
+    <ul>
+      <li><a href="https://github.com/GeneWhisperer/RAG_Best_Practices" target="_blank">GitHub Repository</a></li>
+      <!-- You can include a live demo or documentation link if you have one -->
+    </ul>
+  </section>
+
+</div>
