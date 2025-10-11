@@ -159,11 +159,16 @@ analytics:
 # Reading Files
 include:
   - .htaccess
-  # - _pages
+  - _pages
   - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - _pages/markdown.md
+  - _pages/portfolio.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/year-archive.html
   - .asset-cache
   - .bundle
   - .github
